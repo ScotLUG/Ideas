@@ -1,0 +1,373 @@
+20:28 < automatical> first thing i was going to ask - for anyone who's here for the meeting - can you sound off please?
+20:28 < stuarte9> here
+20:28 < yxby> here
+20:28 < Rob4001> <----
+20:28 < Sajuuk> quantumly here
+20:29 < bagpuss_thecat> http://bofh.nikhef.nl/events/FOSDEM//2014/Janson/Sunday/NSA_operation_ORCHESTRA_Annual_Status_Report.webm <-- fantastic PHK talk from FOSDEM
+20:30 < automatical> anyone got a problem with me logging this meet and placing it in the etherpad
+20:30 < automatical> ?
+20:30 < stuarte9> nope
+20:30 < automatical> and for that matter - everyone have a look at the agenda : https://etherpad.mozilla.org/rTKU7B0zno
+20:30 < Sajuuk> ..... omg, you have an agenda?!?
+20:31 < Rob4001> xD
+20:31 < automatical> Sajuuk: almost ;)
+20:31 < Rob4001> I claim purple
+20:31 < stuarte9> yep
+20:31 < automatical> i was purple before anyone got there - original hipster ;)
+20:31  * Uilebheist is just looking at the agenda now.  Better late than never :-)
+20:32 < automatical> so the first thing that we should probably chat about is: what parts of the wiki do we want to be demoting?
+20:33 < drochaid> I, too, am here for the meeting. I'm not quite as finished working as I'd hoped, so won't be quite as attentive as I should be.
+20:33 < mgdm> The spam
+20:33 < automatical> (and if anyone here is just registering a new wiki account tonight, can you PM me your username and i'll get you access to write)
+20:33 < Uilebheist> What is the wiki actually used for?  Apart from looking at the meeting page?
+20:34 < automatical> Uilebheist: you are correct, it's only use for a list of past and future meetings at the moment, most of the other content is historical
+20:34 < yxby> automatical: I should probably do that, I'll just go with yxby
+20:34 < automatical> yxby: no problem, can you register and let me know when you have?
+20:34 -!- TMW2N [5H8S6S7LV1@tengu.elite.uk.com] has joined #scotlug
+20:34 < TMW2N> lo
+20:34 < automatical> TMW2N: o/
+20:35 < automatical> agenda at: https://etherpad.mozilla.org/rTKU7B0zno
+20:35 < automatical> personall, i think it's good to have information about LUGs around scotland easy to find too
+20:35 < automatical> however - we do _need_ to update those photos!
+20:35 < TMW2N> yeah, i was gonna suggest that as well as being the LUG for around ehre we should really tie in a bit better with teh other LUGs
+20:35 -!- YaManicKill_ [uid23934@gateway/web/irccloud.com/x-khdtawgjwdjhnklb] has joined #scotlug
+20:36 < TMW2N> and yeah we do need to update the photos, the *other* me is in the later one
+20:36 < Uilebheist> automatical: agree (both on the list of LUGs and the photos :-)
+20:36 < Sajuuk> what was the decision on the idea at the last meetup at weathersppons on the dual site idea?
+20:37 < automatical> Sajuuk: i don't think there was a decision, but i'll add that to the agenda :)
+20:37 < Sajuuk> because that would rather inform the discussion either war
+20:37 < Sajuuk> s/war/way
+20:37 < yxby> automatical: done
+20:37 < Uilebheist> "war" was funnier :-)
+20:37 < automatical> yxby: cheers
+20:37 < Sajuuk> not quite what i had in mind, automatical
+20:37 < automatical> Sajuuk: oh?
+20:38 < Sajuuk> remember, there was also the Scottish Lugs part and Glasgow lug in particular site concept put forward
+20:38 < Sajuuk> as we are holding the scotlug name
+20:38 < mgdm> the last time that came up it got a bit 'heated', as I recall
+20:38 < mgdm> that was a few years ago though
+20:39 < Sajuuk> not that we host other sites, but its made clear that there are other sites, link to them, provide something more than what is done now
+20:39 < automatical> i wasn't sure if we had a decision that night on that one - but i'd personally prefer that was was spoken about at our next actual meet in the electron club?
+20:39 < TMW2N> yeah i think it's somethign that should be discussed at the meeting, as not everyoen gets onto IRC
+20:39 < automatical> although, making it clear about the other lugs, etc should probably be done at the moment
+20:40 < TMW2N> and it shoudl maybe also go to the list
+20:40 < Sajuuk> just mentioning again, as it would seem to inform the input for tonight
+20:40 < automatical> i'm happy to replace the "other lugs" section on the home page with that information - rather than having a subpage?
+20:40 < automatical> yxby: that's you got edit rights
+20:41 < yxby> automatical: awesome >:)
+20:41 < automatical> have we got a volunteer who can work on that homepage sub-section?
+20:41 < Sajuuk> i'm mearly ideas person for this time frame... the next two weeks or so i don't have any spare time i think
+20:41 < automatical> (also - everyone is free to edit the etherpad)
+20:42 < automatical> Sajuuk: totally understandable
+20:42 < Uilebheist> I'm too busy keeping the server running to actually use it :-)
+20:42 < automatical> Uilebheist: agreed - it's getting quite a high maintenance beast!
+20:42 < drochaid> automatical: there was no strong feeling one way or another on the issue of ScotLUG vs Glasgow LUG. Moderate belief we should be glug, but nothing strong enough to warrant a change despite my own opinions.
+20:42 -!- JacksterE [~textual@151.227.246.124] has joined #scotlug
+20:43 -!- JacksterE [~textual@151.227.246.124] has quit [Client Quit]
+20:43 < yxby> has anyone raised the question with the other scottish LUGs?
+20:43 < TMW2N> as an aside to this conversation, the domains glasgowlug.org.uk and glaslug.org.uk are registered for 3 years, IF things go that route
+20:43 < TMW2N> if not, then they can lapse
+20:43 < automatical> TMW2N: oh?
+20:44 < TMW2N> i registered them on the off chance they would be required
+20:44 < automatical> ah!
+20:44 < YaManicKill_> Far too organised.
+20:44 < automatical> very very organised
+20:44 < automatical> so i was thinking in terms of photos - our next meeting could have a moderately nice turnout?
+20:44 < TMW2N> happy to pass them onto another person to handle if anyone wants to take over, just figured it might be handy, rather than us decide to go that way and be stuck with a rubbish domain name
+20:45 < automatical> TMW2N: fair point :)
+20:45  * Uilebheist checks his diary - I think I can actually attend the next meeting
+20:45 < automatical> Uilebheist: \o/
+20:46 < TMW2N> if we put it onthe mailing list soon, AND on the homepage as well as teh topic in here we may get more bodies for an up to date photo
+20:46 < TMW2N> assuming drochaid wants to be in the photo, rather than behind a camera, i'm pretty sure Lynds would take the photo
+20:46 < automatical> TMW2N: that would be awesome :)
+20:47 < TMW2N> she has confirmed she's happy to help
+20:47 < automatical> so to confirm, with the wiki: more information about other lugs, more up to date photos - information about future meetings on the home page?
+20:47 < Uilebheist> I can take photos.  My camera has a remote control rather than one of these 10 second timers
+20:48 < automatical> sorted :) all of the bodies in the photo
+20:48 < Sajuuk> really, it needs to be decluttered and made fit for organised expansion, if your keeping it around for awhile
+20:48 < Sajuuk> it'd probably get more use if there was a better structure to accept new things
+20:48 < automatical> Sajuuk: i was going to speak about that in the plans for the future
+20:48 < automatical> speaking to Uilebheist - i think we should make it static ASAP
+20:49 < Uilebheist> It would make my life easier :-)
+20:49 < automatical> it's getting quite difficult to manage the amount of spam, which is causing serious server load
+20:49 < Uilebheist> or at least stop robots creating 2000 users a week
+20:49 < yxby> how about a CAPTCHA?
+20:49 < Uilebheist> CAPTCAHs are evil.  I can't see them.
+20:49 < yxby> Arch Linux has a good one for their forum IIRC
+20:49 < automatical> yxby: possibly, but bots almost always get over them
+20:49 < Uilebheist> They block genuine users, but there are call centres in India filling 1000s of them for pennies
+20:50 < yxby> bbs.archlinux.org/register.php
+20:50 < yxby> the captcha is a line of shell script to eval
+20:50 < automatical> actually - that's pretty neat
+20:50 < Uilebheist> yxby: yes, I like that one.
+20:50  * Sajuuk heads off for dinner with family (v. rare)
+20:50 < yxby> apparently they have no spam problems now :)
+20:51 < TMW2N> would block newbie users though
+20:51 < automatical> Sajuuk: see you soon!
+20:51 < Uilebheist> On my server I ask people to evaluate some INTERCAL.  But that's cruelty to people
+20:51 < yxby> that is a problem
+20:51 < automatical> TMW2N: we could build our own but make it much much easier
+20:51 < yxby> just give a few lines of instruction, maybe?
+20:51 < yxby> "paste the following line into your terminal and copy the output" or something
+20:52 < mgdm> eep
+20:52 < automatical> Uilebheist: i did suggest that we can build the new website with: http://www.intercaloninterstates.org/
+20:52 < Uilebheist> What about a Windows user who is willing to escape?
+20:52 < Uilebheist> They won't be able to paste the command into anything
+20:52 < yxby> ah yeah I remember that coming up on the list
+20:52 < Sajuuk> ooh, theres a laptop at the table... antisocail points for me!
+20:52 < automatical> hmm - how about we investigate a few "human" questions - there has to be banks of them available
+20:53 < Uilebheist> That's fine, better than Ruby on Rails (or Rube on Conveyor Belts)
+20:53 < yxby> aww that was going to be my suggestion
+20:54 < automatical> i was thinking we could pick the technology stack once we've picked our planned feature set 
+20:54 < Uilebheist> automatical: that would make sense, chose the job first, then the right tool for the job
+20:54 < yxby> good idea
+20:54 < automatical> but yes - should we bother with a captcha if we can have a new (basic) site really quickly
+20:55 < automatical> and live with a static site for a month or two tops?
+20:55 < automatical> (knowing that we can edit the html if need be)
+20:55 < automatical> i was thinking that it might push us a bit further (and faster) with the new site
+20:55 < TMW2N> i actually don't see why, if we're planning to ditch the wiki, we don't just flatten it now, and if need be ad dinfo by hand
+20:56 < Uilebheist> Yes, the only really dynamic bit is the meetings page, and that only needs to chance once a month
+20:56 < automatical> anyone whole-heartedly against the idea?
+20:56 < Uilebheist> s/chance/change/
+20:56 < automatical> Sajuuk: go enjoy dinner with family ;)
+20:57 < Sajuuk> np, dad just wandered off on a work call
+20:57 < automatical> :)
+20:57 < TMW2N> brb, i've just realised i'm missing something. left beer in kitchen
+20:57 < automatical> TMW2N: that's a P1 bug ;)
+20:58 < automatical> ok - so any other suggestions for improving the wiki before we start on the site website?
+20:58 < mgdm> here's an idea - get a DB dump of the wiki, run a tool to convert wiki markup to markdown, convert to Jekyll
+20:58 < mgdm> as a stopgap
+20:58 < Sajuuk> i'm not sure if you're making a distinction there or not
+20:58 < automatical> mgdm: i do like that idea
+20:59 < Sajuuk> when talking improving the wiki, is it improvements to make before archiving? or improvements to make to carry it forward into the new architecture
+20:59 < Uilebheist> mgdm: sounds good to me
+20:59 < automatical> Sajuuk: improvements pre:archiving
+20:59 < automatical> https://github.com/clioweb/mediawiki-jekyll
+20:59 < automatical> seems to be best of both worlds
+21:00 < Sajuuk> so, when archiving the wiki, is it actually worth the time/effort to make the lug and photo improvements?
+21:00 < automatical> Sajuuk: yes
+21:00 < automatical> as we wont have the new website immediately
+21:00 < mgdm> automatical: nice find
+21:00 < Uilebheist> automatical: looks like it will do the job very well
+21:01 < TMW2N> can we deny new user creation on the wiki? have that page / script / whatever do nada, and cut down on voerhead?
+21:01 < automatical> Sajuuk: it's also a case, that if we promote the content that we care about on the wiki now - we know which features to focus on with the new site
+21:01 < mgdm> we had that before, but even so I beloeve the fact that it hangs off a DB means the server is far more loaded than it needs to be
+21:01 < TMW2N> then we could keep the wiki, delete any user who doesnt have write access to the wiki, and make it a bit more manageable for now?
+21:01 < Uilebheist> Yes, that's exactly the problem
+21:02 < mgdm> if we make it static with Jekyll, we could move it to Github Pages, and make the hosting someone else's problem, and accept pull requests for changes
+21:02 < automatical> TMW2N: i was thinking that, prior to archiving
+21:02 < Uilebheist> I've deleted over 100,000 users last month... it only helped a bit
+21:02 < Sajuuk> ouch
+21:02 < Uilebheist> I think the database structure is just not right for a ratio of 1000 users per page
+21:02 < mgdm> Github has online tools for adding and editing pages so that people who can't drive Git can still contribute with not that much overhead than the existing wiki stuff
+21:03 < Uilebheist> brb - wine glass is empty :-)
+21:03 < TMW2N> coudl someone give TMW2N write access to the wiki?
+21:03 < automatical> TMW2N: np
+21:03 < TMW2N> i'm happy to nuke some users too if it'll help
+21:03 < automatical> thanks!
+21:03 < TMW2N> in fact, i've got a couple fo hours a day of commute i could do just that
+21:04 < automatical> TMW2N: can't have you spending hours on that task though!
+21:04 < Rob4001> mgdm: I do like that idea, as it would also mean we can remove the wiki from the server causing the bot's to get 404's potentually removing us from their list of targets
+21:04 < Sajuuk> do we know where the users are generating from?
+21:04 < automatical> Sajuuk: all over the world unfortunately
+21:04 < TMW2N> it's not something i need to pay a HUGE amount of attention to, and would be handy
+21:04 < mgdm> Rob4001: aye
+21:04 < Sajuuk> can we do some blanket ip blocking?
+21:05 < TMW2N> plus i havbe pretty much zero web skills, so anything techy for the new site it out for me
+21:05 < automatical> Sajuuk: that's been thought about waaayyy in the past
+21:05 < Uilebheist> There's a script under the wiki maintenance directory which nukes users who aren't in any group, haven't logged in in a while, etc
+21:05 < yxby> Jekyll is pretty easy
+21:05 < Uilebheist> but unfortunately it doesn't delete users who made "contributions" even though the contribution is deleted spam
+21:05 < TMW2N> can we add anyone who has ever edited a page to a group, and anyone we expect to edit pages to the same grou]then nuke the rest?
+21:06 < yxby> if it's set up on GitHub it's a matter of editing Markdown files, the site regenerates automatically once you save it
+21:06 < Uilebheist> first we need to "archive" any old spam, otherwise deleting the users will make things inconsistent in the database
+21:06 < automatical> yxby: i think we should go down that route
+21:06 < Uilebheist> And that needs somebody with time to go through the history
+21:06 < automatical> in any case - we do need to freshen up the homepage and get it ready for us to build the next generation
+21:06 < yxby> automatical: yeah I'm very much in favour of that, at least for now
+21:06 < Rob4001> So short turm, Do we convert to jekyll first or make the ajustments?
+21:07 < automatical> Rob4001: it makes sense to make the changes now
+21:07 < TMW2N> i've got some time i can spare to archiving spam
+21:07 < automatical> i personally wont get time to look at a jekyll conversion till mid next week
+21:07 < yxby> I could have a go at mediawiki-jekyll
+21:07 < automatical> yxby: awesome
+21:07 < Uilebheist> TMW2N: great :-) I'll see about giving you the necessary access
+21:08 < yxby> I know nothing about mediawiki though, so I might get stuck if it's not straightforward
+21:08 < automatical> i could possibly give you a db dump and a copy of the site to work with at some point soon
+21:08 < automatical> np
+21:08 < yxby> automatical: that would be awesome
+21:08 < automatical> Uilebheist: do you think its safe to take a database dump and copy of the code, strip out password hashes and put in a public repo somewhere?
+21:09 < yxby> is there a way that I can get an idea of the site content?
+21:09 < yxby> like a sitemap?
+21:09 < Sajuuk> hahahahaha
+21:09 < automatical> yxby: we can possibly generate one
+21:09 < mgdm> if you get stuck with mediawiki-jekyll let me know
+21:09 < Sajuuk> ahem, i mean, i'm not sure its that organised
+21:09 < mgdm> I've done similar spelunking before
+21:09 < Uilebheist> automatical: The code is from "apt-get install mediawiki"; the DB dump can be arranged easily enough
+21:09 < automatical> awesome :)
+21:10 < automatical> so the images and stuff with be living in /var/www/ somewhere most likely
+21:10 < Rob4001> yxby: http://www.scotlug.org.uk/wiki/Special:AllPages ?
+21:10 < yxby> Rob4001: great, thanks!
+21:10 < automatical> Uilebheist: once we've rebuilt - would you be happy to host again? Obviously we would be careful about required resources!
+21:10 < automatical> (and use all of the caching!)
+21:11 < Uilebheist> I don't see why not.  I'll make sure $boss is happy
+21:11 < automatical> :] thanks
+21:11 < Uilebheist> Although you have to realise that the server is physically in Edinburgh - is that acceptable :-)
+21:11 < automatical> http://memegenerator.net/instance/48389511
+21:12 < automatical> that is more than acceptible
+21:12 < Sajuuk> -_- that extra 1ms is totally unacceptable
+21:12 < automatical> out of interest - lumison?
+21:12 < TMW2N> automatical: surely you mean "cache all the things!"
+21:12 < Uilebheist> 64 bytes from www.scotlug.org.uk (87.246.111.36): icmp_req=1 ttl=59 time=2.66 ms
+21:12 < mgdm> s/Lumison/Pulsant/ these days
+21:13 < automatical> TMW2N: exactly
+21:13 < Uilebheist> automatical: yes (subject to whatever they call themselves this week)
+21:14 < automatical> herein referred to as: "those guys over there ->"
+21:14 < automatical> righty - next question is, any volunteers for the conception, design, development and testing of the new site - whichever form it may take?
+21:15 < TMW2N> i'm happy to test things, but don't have time to learn any new tech stuff i'm not likely to use anywhere else so not up for building it.
+21:15 < automatical> TMW2N: all good with me :)
+21:16 < Rob4001> automatical: I can help make it work, I cannot make it pretty
+21:16 < yxby> I'm up for some building
+21:16 < Uilebheist> I'm there for whatever needs to be done on the server side to get things up and running
+21:16 < automatical> :]
+21:16 < automatical> what's your github account guys?
+21:16 < yxby> I'm @dthjones
+21:17 < automatical> added
+21:17 < Rob4001> Rob4001
+21:17 < Rob4001> <3 having all the usernames
+21:17 < yxby> thanks!
+21:17 < automatical> np
+21:18 < automatical> if anyone else wants added - feel free to ping me :)
+21:18 < g-virt> I would be up for doing some testing
+21:18 < automatical> awesome
+21:19 < automatical> is you'r username g-virt?
+21:19 < TMW2N> did anyone have an objection to us just flattening the wiki?  as when was the last edit to it tbh?
+21:19 < TMW2N> otehr than meeting updates?
+21:19 < g-virt> I'm not registered on github yet bout to do that
+21:19 < automatical> g-virt: np, thanks
+21:20 < Uilebheist> TMW2N: apart from the meetings page, probably about 5 years ago
+21:20 < automatical> TMW2N: I think the Jekyll plan can be the best of both worlds :)
+21:20 < TMW2N> so, why are we not flattening it now? take a DB dump and make it jekyll if need be, but less load, plus less spam makes for happier admins?
+21:20 < Uilebheist> I definitely like this idea :-)
+21:21 < TMW2N> i always try to be nice to sysadmins, just ask mquin
+21:21 < automatical> TMW2N: i was going to start investigating taking a dump of it tonight after this meeting - i'm not on the server yet ;)
+21:21 < automatical> but that's because i probably gave a borked key to Uilebheist 
+21:21 < TMW2N> heh
+21:21 < Uilebheist> automatical: see your latest email, or a PM you'll receive in a second
+21:22 < g-virt> ok im now g-virt on github
+21:22 < automatical> Uilebheist: np
+21:22 < automatical> g-virt: added
+21:22 < g-virt> thanks :)
+21:23 < automatical> so my next plan for tonight was to invite you all to contribute to this repository with some ideas: Short term plan for the wiki
+21:23 < automatical> boo - paste fail
+21:23 < automatical> https://github.com/ScotLUG/Ideas
+21:23 < TMW2N> i'm TMW2N on github now
+21:24 < automatical> TMW2N: thanks
+21:24 < TMW2N> on the off chance i magically learn to code something
+21:24 < Rob4001> I changed the Org Icon :)
+21:24 < yxby> automatical: maybe a gist would be a better fit?
+21:24 < automatical> Rob4001: did i tell you that you are awesome?
+21:24 < automatical> yxby: i was thinking that we could drop sketches and stuff in there too
+21:24 < Rob4001> Not yet :P
+21:24 < Sajuuk> hmmm, ideas
+21:24 < automatical> TMW2N: you've ben added
+21:24 < Sajuuk> wnelson343 on github
+21:24 < automatical> but this repo is entirely freeflow
+21:25 < yxby> automatical: good thinking, that would be useful
+21:25 < Uilebheist> Sigh, a typo.  While copying the key.  Coffee underflow detected :-(
+21:26 < automatical> drochaid has offered to do some user testing for us and tell us about it during meetups - which will be awesoome
+21:26 < Uilebheist> Missing first character, a clear copy-and-paste-error
+21:26 < automatical> :)
+21:27 < automatical> i'm in now
+21:28 < automatical> so what i was hoping to do was collate all the ideas that we have just before the next meeting in real life, and give everyone an update - we can then meet again a month today and chat about taking these further - any thoughts?
+21:28 < TMW2N> automatical: ta
+21:29 < TMW2N> soudns good to me
+21:29 < automatical> cool!
+21:30 < automatical> ok - then do we want to chat about the concept of having 2 websites - or should we tackle that question this time next month when we have some ideas together?
+21:31 -!- Rob4001_ [~quassel@Rob4001.co.uk] has joined #scotlug
+21:31 < yxby> two websites as in ScotLUG/GlasLUG?
+21:31 -!- Rob4001 [~quassel@Rob4001.co.uk] has quit [Ping timeout: 255 seconds]
+21:32 < automatical> yxby: as in public facing and attendee facing
+21:32 < automatical> i think the scotlug/glaslug should probably be spoken about in person
+21:32 < yxby> yep just checking
+21:32 < yxby> technically it can all be done in markdown
+21:32 < automatical> yup
+21:33 < Rob4001_> Anything interesting happen?? my vps derped
+21:33 < yxby> *Jekyll
+21:33 < TMW2N> what would be the purpose of the atendee site? it's not like we have any confidential info we dont want general public seeing
+21:33 < TMW2N> or, if all info is going in the atendee site, what woudl be purpose of the public one?
+21:33 < automatical> TMW2N: i don't mean one that's locked away - just more that we have 1 website for planning of meetings and events, but we have another one for actually promoting them
+21:33 < automatical> public one would be more concise
+21:33 < yxby> why not have an /about and a /meetings ?
+21:34 < automatical> that works too
+21:34 < Sajuuk> two landing pages, one for people finding out about, and another for people already engaged?
+21:34 < automatical> i'm totally happy with that idea
+21:34 < yxby> Jekyll automatically handles paths like /meeting/2014/04/10/minutes.html
+21:34 < automatical> perfect
+21:34 < Uilebheist> Sounds good to me
+21:35 < automatical> so i think we have 3 clear actions tonight then?
+21:35 < automatical> clean up the wiki homepage
+21:35 < automatical> convert the wiki to jekyll
+21:35 < yxby> I'll get on that
+21:35 < automatical> build up ideas on the wiki
+21:35 < automatical> thanks
+21:35 < automatical> and a 4th: use this channel more for planning and ideas!
+21:36 < automatical> so - AOCB?
+21:37 < yxby> what are the EdLUG: pages on scotlug.org.uk/wiki ?
+21:37 < Sajuuk> a small attempt to bring more info about other lugs onto this website from before, i think?
+21:37 < TMW2N> iirc edlug used to update our wiki with meeting info. there was talk of getting any other scottish lug to do the same
+21:37 < automatical> i think that was the case
+21:37 < TMW2N> not sure anything ever happened about it
+21:38 < Rob4001_> Um, Remider to all those who are interested the International Space Apps Challenge is in glasgow this weekend
+21:38 < automatical> TMW2N: that's what i would love to see on the new site
+21:38 < Uilebheist> I think it was all Mr Shearer's doing, or meddling
+21:38 < TMW2N> automatical: i'm with you on that one.
+21:38 -!- Rob4001_ is now known as rob4001
+21:38 -!- rob4001 is now known as Rob4001
+21:39 < TMW2N> i've edited the wiki welcome page, added a link to electron club's site.
+21:39 < automatical> there is lots of open source activity in scotlug - we need to prmote that!
+21:39 < automatical> TMW2N: I really really should have done that a long time ago!
+21:39 < TMW2N> automatical: tbh i've never paid any attention, but it did seem a bit odd not having such a thing
+21:39 < Uilebheist> TMW2N: which you may notice, by coincidence, has the same IP address...
+21:40 < automatical> i feel rude for only saying this now - but thanks for coming online tonight guys - I think we've made good progress to taking scotlug further :)
+21:40 < TMW2N> Uilebheist: cant' say i did notice.  i'm nto the most observant person
+21:40 < Uilebheist> I think they were having problems finding somewhere to host the site.
+21:41 < automatical> righty - i think we're good tonight then?
+21:41 < yxby> automatical: np! Happy to have something fun to work on!
+21:41 < automatical> awesome :)
+21:41 < yxby> well, a big messy database dump anyway :)
+21:41 < TMW2N> if it's decided pages / users need nuked, someone just needs to give me some instructions and i'l lget started
+21:41 < Uilebheist> Let me know if there's anything required server side
+21:42 < automatical> perfect
+21:42 < automatical> TMW2N: yxby: I'll try to get a db dump on the repo asap
+21:42 < yxby> I'll have a go at a straight conversion of everything on the wiki to markdown, then we can pick through it
+21:43 < yxby> there can't be more than a hundred or so pages
+21:43 < automatical> yxby: unless there's user pages for the bots!
+21:44 < yxby> going off http://www.scotlug.org.uk/wiki/Special:AllPages , there's not much there
+21:44 < automatical> Welcome to the Scottish Linux Users' Group :: www.scotlug.org.uk :: Next Meeting - 24th April 2014 - Patrick Harvie, MSP @ Electron Club,  Sauchihall Street, Glasgow
+21:44 < automatical> ah, cool
+21:44 < Uilebheist> There appear to be 383 pages, for a total of 4547 revisions
+21:45 < yxby> should I try and preserve revision history, too?
+21:45 < Uilebheist> A lot of that would be spam though
+21:46 < automatical> as long as we archive the dump itself, we can probably lock it without the revisions
+21:46 < yxby> that would certainly make it easier :)
+21:46 < yxby> also, does anyone want to bikeshed about their favourite markup language?
+21:46 < mgdm> yxby: Markdown
+21:46 < Uilebheist> Yes, we can take a full database backup anyway, in case we ever need something from an older revision.  I think it's unlikely
+21:46 < yxby> I'd lean slightly towards textile
+21:47 < mgdm> I say Markdown because that's what Github is good at editing
+21:47 < yxby> iirc textile works just as well, but markdown is default
+21:47 < yxby> ah doesn't really matter, Jekyll can handle either
+21:48 < yxby> I'll use GitHub flavoured markdown as a default, it's easy enough to change later
+21:49  * automatical tries not to get tempted by github wikis for random notes - given that we're moving away from a wiki!
+21:50 < yxby> hah, I'd forgotten that GitHub has a wiki baked in!
+21:50 < automatical> anyone else having problems with github styling - or just me?
+21:51 < automatical> wondering if their CDN has fallen over
+21:51 < yxby> bam yep
+21:51 < automatical> and it's fine now
+21:51 < yxby> looks like a javascript problem
+21:52 < yxby> yeah back to normal
+21:52 < yxby> odd
+21:52 < Uilebheist> I was just about to say doesn't look any different to me...
+21:52 < automatical> Uilebheist: i was expecting you to say that ;)

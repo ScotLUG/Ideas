@@ -1,0 +1,60 @@
+10/4/2014 | ScotLUG Meeting
+---------------------------
+Agenda
+---------------------------
+Fix the Wiki
+ * What do we want more of
+ * What do we want less of
+ * Short term plan for the wiki
+ 
+Put a plan together for the next meeting
+
+Who is interested
+
+Do we want to go for a dual site? 1 public facing, 1 attendee facing.
+
+Github
+
+Feature List
+
+----------------------------
+Minutes
+----------------------------
+
+Suggestions for Fixing the Wiki (Pre:Archive)
+================================
+
+More Inforamtion about the other LUGs - Preferably on the main page not an obscure subpage
+Update Photos
+Information about future meetings visable on main page
+Look Into introducing a CAPTCHA
+
+Timeline
+
+Preperation of Wiki for archive ready state -> Run Wiki in archive state from GitHub while designing coding new website -> Remove wiki archive and deploy new website
+
+Short Term plan for wiki
+=================
+
+Implement suggestions above
+Covent wiki to jekyll site (https://github.com/clioweb/mediawiki-jekyll )
+Host on Github Pages
+
+
+New Site
+================
+
+Interested Parties
+TMW2N(github: TMW2N)
+Rob4001
+yxby (github: dthjones)
+Uilebheist
+g-virt
+Sajuuk (github: wnelson343)
+
+Cross LUG interation
+=======================
+domain names for Glasgow LUG registered
+Glaslug.org.uk and Glasgowlug.org.uk
+These can be left to lapse if not needed
+
